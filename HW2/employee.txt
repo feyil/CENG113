@@ -1,0 +1,9 @@
+Adam 600 20
+John 1000 50
+Julia 700 60
+Kate 1200 5
+George 800 10
+Mike 750 3
+Mary 500 100
+212.174.46.98
+
